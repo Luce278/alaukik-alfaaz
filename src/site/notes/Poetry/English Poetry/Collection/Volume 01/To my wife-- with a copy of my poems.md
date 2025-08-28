@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/poetry/english-poetry/collection/volume-01/to-my-wife-with-a-copy-of-my-poems/"}
 ---
 
+
+
 Take this kiss upon the brow!  
 And, in parting from you now,  
 Thus much let me avow —  

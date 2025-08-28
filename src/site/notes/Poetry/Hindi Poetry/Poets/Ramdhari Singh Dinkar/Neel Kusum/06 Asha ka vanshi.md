@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/poetry/hindi-poetry/poets/ramdhari-singh-dinkar/neel-kusum/06-asha-ka-vanshi/"}
 ---
 
+
+
 **लिख रहे गीत इस अंधकार में भी तुम**
 **रवि से काले बरछे जब बरस रहे हैं,**
 **सरिताएँ जम कर बर्फ हुई जाती हैं,**

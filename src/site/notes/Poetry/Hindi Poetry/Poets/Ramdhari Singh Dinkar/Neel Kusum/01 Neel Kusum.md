@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/poetry/hindi-poetry/poets/ramdhari-singh-dinkar/neel-kusum/01-neel-kusum/"}
 ---
 
+
 **‘‘है यहाँ तिमिर, आगे भी ऐसा ही तम है,**
 **तुम नील कुसुम के लिए कहाँ तक जाओगे ?**
 **जो गया, आज तक नहीं कभी वह लौट सका,**

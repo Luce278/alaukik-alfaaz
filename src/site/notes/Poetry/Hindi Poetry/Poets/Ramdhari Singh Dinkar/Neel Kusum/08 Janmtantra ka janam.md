@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/poetry/hindi-poetry/poets/ramdhari-singh-dinkar/neel-kusum/08-janmtantra-ka-janam/"}
 ---
 
+
+
 **सदियों की ठंढी-बुझी राख सुगबुगा उठी,**
 **मिट्टी सोने का ताज पहन इठलाती है;**
 **दो राह,समय के रथ का घर्घर-नाद सुनो,**

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/poetry/hindi-poetry/poets/ramdhari-singh-dinkar/neel-kusum/02-chand-aur-kavi/"}
 ---
 
+
+
 **रात यों कहने लगा मुझसे गगन का चाँद,**
 **आदमी भी क्या अनोखा जीव होता है!**
 **उलझनें अपनी बनाकर आप ही फँसता,**

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/poetry/hindi-poetry/poets/ramdhari-singh-dinkar/neel-kusum/09-pawas-geet/"}
 ---
 
+
+
 **अम्बर के गृह गान रे, घन-पाहुन आये।**
 **इन्द्रधनुष मेचक-रुचि-हारी,**
 **पीत वर्ण दामिनि-द्युति न्यारी,**
